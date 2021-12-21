@@ -11,7 +11,7 @@
 
 :vulcan_salute: Passionate for Game 👾 & Technology 👨🏻‍💻
 
-:writing_hand: 
+:location: 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
