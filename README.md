@@ -7,7 +7,7 @@
 
 
 
-:computer: Studying CS in [GIMT,Azara](http://www.gimt-guwahati.ac.in/).
+:computer: Studying CSE in [GIMT,Azara](http://www.gimt-guwahati.ac.in/).
 
 :vulcan_salute: Passionate for Game 👾 & Technology 👨🏻‍💻
 
