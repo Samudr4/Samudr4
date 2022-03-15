@@ -11,7 +11,7 @@
 
 :vulcan_salute: Passionate for Game 👾 & Technology 👨🏻‍💻
 
-:location: 
+🗺️ Guwahati,Assam,India
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
