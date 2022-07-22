@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@purp1exd-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/purp1exd)
 [![](https://img.shields.io/badge/-@Samudr4-%23181717?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UC7y81yZN6jSr65sDu4fLmmA)
 [![](https://img.shields.io/badge/-@samudr4.io-%23000000?style=flat-square&logo=instagram)](https://instagram.com/samudr4.io)
-[![](https://img.shields.io/badge/-@Website/Portfolio-%23000000?style=flat-square&logo=website)](https://samudr4.github.io/purp1eweb/)
+[![](https://img.shields.io/badge/-Website/Portfolio-%23000000?style=flat-square&logo=internet)](https://samudr4.github.io/purp1eweb/)
 [![](https://img.shields.io/badge/-Resume/CV-%23000000?style=flat-square&logo=doc)](https://drive.google.com/file/d/1Ft3HzZvcoUezisf_zzFV6ECiQ_p9G6IM/view?usp=sharing)
 
 :computer: Studying CSE in [GIMT,Azara](http://www.gimt-guwahati.ac.in/).
