@@ -12,8 +12,8 @@
 
 🗺️ Guwahati,Assam,India
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+## 𝗠𝘆 Skills
+![Python](https://img.shields.io/badge/-Unity-%23E44D27?style=flat-square&logo=unity&logoColor=664500)
 ![Python](https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=66CD00)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
