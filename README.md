@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-Resume/CV-%23006500?style=flat-square&logo=doc)](https://drive.google.com/file/d/1-m8_8q28k3j6-EkpWhhVmQCMxPJPR-yx/view?usp=sharing)
 [![](https://img.shields.io/youtube/channel/subscribers/UC7y81yZN6jSr65sDu4fLmmA?label=Subscribe&style=social)](https://www.youtube.com/channel/UC7y81yZN6jSr65sDu4fLmmA)
 
-:computer: Studying CSE in [GIMT,Azara](http://www.gimt-guwahati.ac.in/).
+:computer: Product @ [EncryptAr​x](https://www.encryptarx.in/).
 
 :vulcan_salute: Passionate for Game 👾 & Technology 👨🏻‍💻
 
@@ -14,11 +14,11 @@
 
 ## 𝗠𝘆 Skills
 
-![Python](https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=66CD00)
-![Unity](https://img.shields.io/badge/-Unity-%23E44D27?style=flat-square&logo=unity&logoColor=664500)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Machine%20Learning-00A98F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Game Development](https://img.shields.io/badge/Game_Development-0D3B66?style=for-the-badge&logo=gamepad&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
