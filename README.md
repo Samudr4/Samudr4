@@ -8,7 +8,7 @@
 
 :computer: Product @ [EncryptAr​x](https://www.encryptarx.in/).
 
-:vulcan_salute: Passionate for Game 👾 & Technology 👨🏻‍💻
+:vulcan_salute: Passionate for Game & Technology 👨🏻‍💻👾
 
 🗺️ Guwahati,Assam,India
 
