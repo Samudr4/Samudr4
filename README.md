@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=250&section=header&text=Samudr4&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=220&section=header&text=Samudr4&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -6,20 +6,13 @@
 
 ### AI Engineer • Full-Stack Developer • Creative Technologist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products;Full-Stack+Developer;Creative+Technologist;Exploring+LLMs+and+AI+Agents;Researching+the+Future+of+Intelligence;Turning+Ideas+Into+Reality+🚀" />
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://samudr4.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Samudr4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/samudr4.io)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://twitter.com/purp1exd)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Products;Full-Stack+Developer;Creative+Technologist;Exploring+LLMs+and+AI+Agents;Turning+Ideas+Into+Reality+🚀" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```yaml
 name: Samudr4
@@ -31,8 +24,8 @@ roles:
 
 interests:
   - Artificial Intelligence
-  - AI Agents
-  - LLM Research
+  - LLMs & AI Agents
+  - AI Research
   - Startups
   - Human-AI Collaboration
   - Creative Technology
@@ -41,26 +34,22 @@ currently_building:
   - AI Assistants
   - Intelligent Workflows
   - SaaS Products
-  - Next-Generation Interfaces
-
-philosophy:
-  "Building intelligent products at the intersection
-   of AI, software, and creativity."
+  - Next-generation Interfaces
 ```
 
 ---
 
-## ⚡ Tech Stack
+# 🌌 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,docker,git,linux,pytorch,tensorflow,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,docker,git,linux,pytorch,tensorflow,figma&theme=dark" />
 
 </div>
 
 ---
 
-## 🧠 Current Focus
+# 🧠 Current Focus
 
 - 🤖 AI Agents & Assistants
 - 🔬 AI Research
@@ -71,93 +60,90 @@ philosophy:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Samudr4&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samudr4&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samudr4&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```text
-AI Alignment
-Agentic Systems
-Multimodal Models
-Research Engineering
-Local AI Infrastructure
-```
-
----
-
-## 🚀 Featured Areas
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🤖 AI
+### 🤖 AI Projects
 
-- AI Agents
+- AI Assistants
 - LLM Applications
-- RAG Systems
-- Prompt Engineering
+- Agentic Systems
+- Workflow Automation
 
 </td>
+
 <td width="50%">
 
-### 🌐 Software
+### 🌐 Software Products
 
-- MERN Stack
-- Next.js
-- TypeScript
-- APIs & Automation
+- MERN Stack Apps
+- Next.js Projects
+- SaaS Platforms
+- Developer Tools
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## ⚙️ Tools
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,github,postman,docker,blender,figma,linux&perline=7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samudr4&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Samudr4&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 Contribution Heatmap
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Samudr4/Samudr4/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+<img width="95%" src="https://ghchart.rshah.org/8A2BE2/Samudr4"/>
+
+</div>
 
 ---
 
-## 🌌 Visitor Count
+# 🌐 Connect With Me
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Samudr4&style=for-the-badge&color=blueviolet"/>
-</p>
+<div align="center">
+
+<a href="https://samudr4.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Samudr4">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://twitter.com/purp1exd">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://instagram.com/samudr4.io">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Building the future with AI, software, and creativity.
+### ⚡ Building intelligent products at the intersection of AI, software, and creativity.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=150&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=Samudr4&label=Profile+Views&color=8A2BE2&style=flat-square"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=120&section=footer"/>
