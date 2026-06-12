@@ -1,14 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=220&section=header&text=Samudr4&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-# Hi 👋, I'm Samudr4
+# 👋 Hi, I'm Samudr4
 
 ### AI Engineer • Full-Stack Developer • Creative Technologist
 
-Building AI-powered products, intelligent workflows, and next-generation digital experiences.
-
-[Portfolio](https://samudr4.vercel.app) •
-[Projects](https://samudr4.vercel.app/projects) •
-[Blog](https://samudr4.vercel.app/blog)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Products;Full-Stack+Developer;Creative+Technologist;Exploring+LLMs+and+AI+Agents;Turning+Ideas+Into+Reality+🚀" />
 
 </div>
 
@@ -16,79 +14,110 @@ Building AI-powered products, intelligent workflows, and next-generation digital
 
 ## 🚀 About Me
 
-- 🤖 Building AI-powered applications and intelligent assistants
-- 💻 Full-stack developer specializing in MERN and TypeScript
-- 🔬 Interested in AI alignment, LLMs, agents, and research
-- 🎨 Background in video editing, motion graphics, and design
-- 🚀 Passionate about startups and creating products from scratch
-- 🌱 Currently exploring local AI systems, agents, and multimodal models
+```yaml
+name: Samudr4
+
+role:
+  - AI Engineer
+  - Full-Stack Developer
+  - Creative Technologist
+
+interests:
+  - Artificial Intelligence
+  - LLMs & AI Agents
+  - AI Research
+  - Startups
+  - Human-AI Collaboration
+  - Creative Technology
+
+currently_building:
+  - AI Assistants
+  - Intelligent Workflows
+  - SaaS Products
+  - Next-generation Interfaces
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🌌 Tech Stack
 
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,docker,git,linux,pytorch,tensorflow,figma&perline=8" />
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-### AI & ML
-
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
-![Anthropic](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Current Focus
+
+- 🤖 AI Agents & Assistants
+- 🔬 AI Research
+- 🚀 Startup Building
+- 🌐 Full-Stack Applications
+- ⚡ Local AI Systems
+- 🧩 Human-AI Collaboration
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samudr4&show_icons=true&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samudr4&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samudr4&theme=tokyonight&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samudr4&layout=compact&theme=tokyonight" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samudr4&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samudr4&theme=tokyonight" />
-</p>
+---
+
+## 🌱 Currently Learning
+
+```text
+AI Alignment
+Agentic Systems
+Multimodal Models
+Local AI Infrastructure
+Research Engineering
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://samudr4.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Samudr4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/samudr4.io)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://twitter.com/purp1exd)
+<div align="center">
+
+<a href="https://samudr4.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Samudr4">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/samudr4.io">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/purp1exd">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Building intelligent products at the intersection of AI, software, and creativity."
+### ⚡ Building intelligent products at the intersection of AI, software, and creativity.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=120&section=footer"/>
 
 </div>
