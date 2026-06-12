@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=220&section=header&text=Samudr4&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=220&section=header&text=Samudr4&fontSize=65&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
@@ -96,9 +96,9 @@ currently_building:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samudr4&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samudr4&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Samudr4&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Samudr4&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -108,7 +108,7 @@ currently_building:
 
 <div align="center">
 
-<img width="95%" src="https://ghchart.rshah.org/8A2BE2/Samudr4"/>
+<img width="95%" src="https://ghchart.rshah.org/8A2BE2/Samudr4" />
 
 </div>
 
@@ -144,6 +144,8 @@ currently_building:
 
 <img src="https://komarev.com/ghpvc/?username=Samudr4&label=Profile+Views&color=8A2BE2&style=flat-square"/>
 
-</div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=80&section=footer"/>
+
+</div>
